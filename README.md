@@ -1,5 +1,4 @@
-[pay-calculator-au](https://pay-calculator-au.netlify.app/)
-
+<kbd> <br> [Pay Calculator AU](https://pay-calculator-au.netlify.app/) <br> </kbd>
 
 - 👋 Hi, I’m Tina Bui
 - 👀 I’m interested in MySQL
@@ -13,4 +12,4 @@
 
 | Name | Status |
 | ------- | ------ |
-| Pay Calculator |  [![Netlify Status](https://api.netlify.com/api/v1/badges/e562c8cf-ce0e-4c81-9c5a-386168deeeea/deploy-status)](https://app.netlify.com/sites/pay-calculator-au/deploys) |
+| Pay Calculator AU |  [![Netlify Status](https://api.netlify.com/api/v1/badges/e562c8cf-ce0e-4c81-9c5a-386168deeeea/deploy-status)](https://app.netlify.com/sites/pay-calculator-au/deploys) |
